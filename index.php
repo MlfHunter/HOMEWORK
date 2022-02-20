@@ -604,8 +604,10 @@
                 //         echo $i;
                 //     }
                 // }
-                $i = 200;
-                echo $i/4 and $i<250;
+                $arr =  range(200,250);
+                echo '<pre>';
+                $res= ($arr/4);
+                print_r ($res);
                 
                 
                
