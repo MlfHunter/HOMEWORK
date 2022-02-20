@@ -599,6 +599,15 @@
         
         <div class="reshenie">
             <?php
+
+                 $arr = range(200,250);
+
+                for($i=0;  $i<50;  $i=$i+4){
+                    echo $arr[$i];
+                }    
+          
+               
+
                 // for($i=200;  $i=250;  $i++){
                 //     if($i/4){
                 //         echo $i;
@@ -609,6 +618,7 @@
                 $res= ($arr/4);
                 print_r ($res);
                 
+
                 
                
               

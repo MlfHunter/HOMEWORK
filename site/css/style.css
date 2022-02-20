@@ -1,11 +1,7 @@
 *{
+    margin: 0;  
+}
 
-    margin: 0;
-    
-}
-body{
-    background: bisque;
-}
 
 .block{ 
     font-size: 30px;
