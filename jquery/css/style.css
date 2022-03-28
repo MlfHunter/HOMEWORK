@@ -1,0 +1,11 @@
+*{
+    margin: 0;  
+
+}
+
+.block{
+    text-align: center;
+    padding-bottom: 30px;
+    margin-bottom: 10px;
+    border: 1px solid;
+}
